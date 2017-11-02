@@ -1,0 +1,14 @@
+{
+  "name": "registry-to-csv",
+  "version": "1.0.0",
+  "description": "intermine registry outputs as json. turn into csv for nice google sheets integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^3.11.5"
+  }
+}
